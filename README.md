@@ -4,8 +4,8 @@ Turn messy product data into clean, confident prices. This pipeline embeds multi
 
 ---
 ### 🏆 Achievement
-- **Amazon ML Challenge 2025** – Ranked **221** out of 7000+ teams  
-- Achieved a **SMAPE score: 45.286** (example)  
+- **Amazon ML Challenge 2025** – Ranked **221** out of 7000+ submissions, 20000+ teams
+- Achieved a **SMAPE score: 45.286**  
 - Screenshots of leaderboard and results:
 
 ![Leaderboard ](Smart_Product_Pricing/image1.jpg)  
