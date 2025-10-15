@@ -3,6 +3,15 @@
 Turn messy product data into clean, confident prices. This pipeline embeds multimodal product information (text + images), learns from historical signals, and predicts prices you can trust.
 
 ---
+### 🏆 Achievement
+- **Amazon ML Challenge 2025** – Ranked **221** out of 7000+ teams  
+- Achieved a **SMAPE score: 0.1234** (example)  
+- Screenshots of leaderboard and results:
+
+![Leaderboard ](Smart_Product_Pricing/image1.jpg)  
+![SMAPE Score ](Smart_Product_Pricing/image2.jpg)
+
+--- 
 
 ### ✨ Highlights
 - Multimodal embeddings: JinaCLIP for robust text/image understanding
