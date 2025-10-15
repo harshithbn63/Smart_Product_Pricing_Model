@@ -70,12 +70,6 @@ Raw CSVs (train.csv / test.csv)
   - `src/model_training.py`: Residual MLP, scaler+PCA prep, early stopping, ensemble save/load, end-to-end predict.
   - `src/evaluation.py`: SMAPE, R², MAE.
 
-Visual slots (add your images by placing files and updating paths):
-
-![Architecture Overview Placeholder](notebooks/images/architecture_overview.png)
-
-![Model Pipeline Placeholder](notebooks/images/model_pipeline.png)
-
 ---
 
 ### 🚀 Quickstart
@@ -125,9 +119,6 @@ Visual slots (add your images by placing files and updating paths):
 - Log library versions per run
 
 ---
-
-### 📜 License
-MIT (or your preferred)
 
 Happy pricing! 💸
 
